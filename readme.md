@@ -1,4 +1,4 @@
-# Advent of Code 2023
+# Advent of Code 
 
 Using RNG to roll my fate:
 
@@ -6,6 +6,9 @@ Using RNG to roll my fate:
 python -c "import random; print(random.SystemRandom().choice(['python', 'typescript', 'go', 'rust', 'elixir', 'ruby', 'crystal', 'java']))"
 ```
 
+## 2023
+
 Day + lang from rng:
 
-1 - python - 65 minutes
+1 - python
+2 - crystal
