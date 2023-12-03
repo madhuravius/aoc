@@ -15,4 +15,7 @@ python -c "import random; print(random.SystemRandom().choice(['python', 'typescr
 Day + lang from rng:
 
 1 - python
+
 2 - crystal
+
+3 - elixir
