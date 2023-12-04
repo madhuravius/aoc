@@ -6,13 +6,15 @@ Using RNG to roll my fate:
 python -c "import random; print(random.SystemRandom().choice(['python', 'typescript', 'go', 'rust', 'elixir', 'ruby', 'crystal', 'java']))"
 ```
 
+Day + lang from rng:
+
 ## 2022
 
 1 - java
 
-## 2023
+2 - rust
 
-Day + lang from rng:
+## 2023
 
 1 - python
 
