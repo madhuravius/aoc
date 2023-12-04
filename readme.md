@@ -21,3 +21,5 @@ Day + lang from rng:
 2 - crystal
 
 3 - elixir
+
+4 - rust
