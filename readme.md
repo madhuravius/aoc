@@ -23,3 +23,6 @@ Day + lang from rng:
 3 - elixir
 
 4 - rust
+
+5 - typescript 
+
