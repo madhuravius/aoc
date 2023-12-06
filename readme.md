@@ -1,5 +1,8 @@
 # Advent of Code 
 
+This is just me struggling through the Advent of Code game/event [here](https://adventofcode.com/) to practice and learn.
+
+
 Using RNG to roll my fate:
 
 ```sh
@@ -28,3 +31,4 @@ Day + lang from rng:
 
 5 - typescript 
 
+6 - go
