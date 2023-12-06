@@ -14,6 +14,8 @@ Day + lang from rng:
 
 2 - rust
 
+3 - java
+
 ## 2023
 
 1 - python
