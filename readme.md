@@ -11,6 +11,10 @@ python -c "import random; print(random.SystemRandom().choice(['python', 'typescr
 
 Day + lang from rng:
 
+## 2021
+
+1 - 
+
 ## 2022
 
 1 - java
@@ -18,6 +22,8 @@ Day + lang from rng:
 2 - rust
 
 3 - java
+
+4 - ruby
 
 ## 2023
 
