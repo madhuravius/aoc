@@ -13,7 +13,7 @@ Day + lang from rng:
 
 ## 2021
 
-1 - 
+1 - rust
 
 ## 2022
 
