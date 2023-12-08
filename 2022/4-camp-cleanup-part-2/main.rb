@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# https://adventofcode.com/2022/day/4
+
 require_relative 'camp'
 
 ARGV.empty? && (raise 'Not enough arguments provided. Provide a file, like: ruby main.rb data.txt')

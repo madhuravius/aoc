@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-# https://adventofcode.com/2022/day/4
-
 # ...
 class Pair
   attr_reader :range_1_start, :range_2_start, :range_1_end, :range_2_end

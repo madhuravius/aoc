@@ -25,6 +25,8 @@ Day + lang from rng:
 
 4 - ruby
 
+5 - ruby
+
 ## 2023
 
 1 - python
