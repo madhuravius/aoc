@@ -27,6 +27,8 @@ Day + lang from rng:
 
 5 - ruby
 
+6 - rust
+
 ## 2023
 
 1 - python
