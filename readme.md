@@ -48,3 +48,5 @@ Day + lang from rng:
 7 - elixir
 
 8 - typescript
+
+9 - go
