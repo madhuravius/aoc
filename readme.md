@@ -35,6 +35,8 @@ Day + lang from rng:
 
 7 - python
 
+8 - elixir
+
 ## 2023
 
 1 - python
