@@ -4,9 +4,11 @@ require "./core"
 
 include Core
 
+# https://adventofcode.com/2023/day/10
+
 file = ""
 OptionParser.parse do |parser|
-  parser.banner  = "Use this with: crystal ./main.cr -- -h"
+  parser.banner = "Use this with: crystal ./main.cr -- -h"
 
   parser.on "-h", "--help", "Show help" do
     puts parser
@@ -19,10 +21,7 @@ OptionParser.parse do |parser|
 end
 
 unless file.empty?
-  games = parse_games(file)
-  puts "Total sum of games by constraints: #{games.sum_possible_games_by_constraints({
-    "red" => 12,
-    "green" => 13,
-    "blue" => 14
-  })}"
+  tiles = parse_tiles(file)
+  puts "Midpoint of followed pipe in tile count is: #{tiles.follow_pipe_to_end_and_return_midpoint}"
+
 end

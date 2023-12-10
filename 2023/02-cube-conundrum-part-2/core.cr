@@ -1,5 +1,4 @@
 module Core
-  # https://adventofcode.com/2023/day/2#part2
   class Games
     property games : Array(Game)
 

@@ -4,6 +4,8 @@ require "./core"
 
 include Core
 
+# https://adventofcode.com/2023/day/2
+
 file = ""
 OptionParser.parse do |parser|
   parser.banner  = "Use this with: crystal ./main.cr -- -h"
@@ -25,5 +27,4 @@ unless file.empty?
     "green" => 13,
     "blue" => 14
   })}"
-  puts "Total sum of power of cubes: #{games.sum_of_power_of_cubes}"
 end

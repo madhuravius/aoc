@@ -56,3 +56,5 @@ Day + lang from rng:
 8 - typescript
 
 9 - go
+
+10 - crystal
