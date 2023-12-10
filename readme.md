@@ -33,6 +33,8 @@ Day + lang from rng:
 
 6 - rust
 
+7 - python
+
 ## 2023
 
 1 - python
