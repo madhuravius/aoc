@@ -58,3 +58,5 @@ Day + lang from rng:
 9 - go
 
 10 - crystal
+
+11 - rust
