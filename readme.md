@@ -57,8 +57,12 @@ Day + lang from rng:
 
 9 - go
 
-10 - crystal
+10 - crystal (unfinished)
 
 11 - rust
 
-12 - java
+12 - java (unfinished)
+
+13 - ruby (unfinished)
+
+14 - java
