@@ -5,3 +5,8 @@
 build
 
 data.txt
+
+.settings
+**/.project
+**/.classpath
+**/.factorypath
